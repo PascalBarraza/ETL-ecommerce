@@ -1,4 +1,6 @@
-#Pipeline de ETL de E-commerce con python
+## 🚀 Proyecto de Ingeniería de Datos
+
+#Pipeline de ETL con python y pandas para procesamiento de datos de e-commerce
 
 ##Descripción
 
@@ -69,13 +71,13 @@ Se aplicaron las siguientes transformaciones:
 
 ---
 
-##Análisis realizados
+##Análisis realizados (resultado)
 
 Se desarrollaron métricas básicas de negocio:
 
-* Top clientes por gasto total
-* Producto más vendido
-* Evolución mensual de ventas
+* Top clientes por gasto total (identificación de clientes con mayor gasto)
+* Producto más vendido (detección del producto más vendido)
+* Evolución mensual de ventas (Análisis de evolución mensual de ventas)
 
 ---
 
