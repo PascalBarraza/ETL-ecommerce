@@ -1,4 +1,4 @@
-#ETL con Python
+#Pipeline de ETL de E-commerce con python
 
 ##Descripción
 
@@ -12,13 +12,14 @@ El objetivo es cargar, explorar, limpiar y analizar los datos para generar métr
 
 * Python
 * pandas
+* Spyder
 
 ---
 
 ##Estructura del proyecto
 
 * `etl.py`: Script principal del proceso ETL
-* `data/`: Carpeta con archivos CSV de entrada
+* `data/`: Carpeta con archivos CSV de entrada (Por motivos de seguridad no se ha cargado la carpeta)
 
 ---
 
